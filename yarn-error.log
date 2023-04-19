@@ -1,0 +1,46 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\Minka\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js install
+
+PATH: 
+  C:\Users\Minka\AppData\Local\Temp\yarn--1681938099611-0.7979254059737524;C:\Users\Minka\AppData\Local\Yarn\Data\global\node_modules\.bin;C:\Users\Minka\AppData\Local\Yarn\Data\link\node_modules\.bin;C:\Users\Minka\AppData\Local\Yarn\bin;C:\Program Files\libexec\lib\node_modules\npm\bin\node-gyp-bin;C:\Program Files\lib\node_modules\npm\bin\node-gyp-bin;C:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\bin;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;C:\Program Files (x86)\IVI Foundation\IVI\Bin\;C:\Program Files\IVI Foundation\IVI\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Users\Minka\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Minka\AppData\Local\Programs\Python\Python311\;C:\Users\Minka\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Minka\AppData\Local\Programs\Python\Python310\;C:\Users\Minka\AppData\Local\Microsoft\WindowsApps;C:\Users\Minka\spicetify-cli;C:\Program Files\Azure Data Studio\bin;C:\Users\Minka\AppData\Local\Programs\Microsoft VS Code\bin;C:\PM\flutter\bin;C:\Users\Minka\.dotnet\tools;C:\tools\dart-sdk\bin;C:\Users\Minka\AppData\Roaming\Pub\Cache\bin;C:\tools\dart-sdk;C:\Users\Minka\AppData\Roaming\npm
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.16.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: UNKNOWN: unknown error, scandir 'C:\Users\Minka\AppData\Local\Yarn\Cache\v6\npm-@react-native-community-cli-platform-ios-10.2.1-2e6bd2cb6d48cbb8720d7b7265bb1bab80745f72-integrity\node_modules\@react-native-community\cli-platform-ios'
+
+npm manifest: 
+  {
+    "name": "camara",
+    "version": "1.0.0",
+    "main": "node_modules/expo/AppEntry.js",
+    "scripts": {
+      "start": "expo start",
+      "android": "expo start --android",
+      "ios": "expo start --ios",
+      "web": "expo start --web"
+    },
+    "dependencies": {
+      "expo": "~48.0.11",
+      "expo-status-bar": "~1.4.4",
+      "react": "18.2.0",
+      "react-native": "0.71.6"
+    },
+    "devDependencies": {
+      "@babel/core": "^7.20.0"
+    },
+    "private": true
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
